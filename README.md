@@ -26,3 +26,12 @@ Tested on\
 
 # Obsidian PREVIEW
 ![Preview](https://raw.githubusercontent.com/alnumdot/AsarPoison/refs/heads/main/devenv_iBmoCPVg1o.gif)
+
+# LICENSE
+```
+This proof-of-concept is provided for educational and research purposes only.
+Any use for malicious activity, including unauthorized access, disruption,
+exploitation, or harm to systems or data, is strictly prohibited.
+The author disclaims all liability for misuse. Redistribution and modification
+are permitted provided this notice is retained.
+```
